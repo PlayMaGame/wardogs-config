@@ -1,0 +1,1534 @@
+{
+    "engines": [
+        {
+            "engine_type": 0,
+            "games_repository": "C:\\Program Files (x86)\\Steam\\steamapps\\common",
+            "install_location": "C:\\Program Files (x86)\\Steam",
+            "uninstall_location": 1
+        }
+    ],
+    "games": [
+        {
+            "FRAMEGEN_Algo": 0,
+            "FRAMEGEN_FallbackMode": 0,
+            "FRAMEGEN_PerfMode": 0,
+            "FRAMEGEN_SearchMode": 0,
+            "FSRUpgradeAvailable": "FALSE",
+            "FfxDisableToastShowed": "FALSE",
+            "MlfiAvailable": "FALSE",
+            "OTAFfxDllIndex": -1,
+            "amdId": 1472,
+            "appDisplayScalingSet": "FALSE",
+            "appHistogramCapture": "FALSE",
+            "arguments": "",
+            "athena_support": "FALSE",
+            "auto_enable_ps_state": "USEGLOBAL",
+            "averageFPS": -1,
+            "color_enabled": "FALSE",
+            "colors": [
+            ],
+            "commandline": "",
+            "cvdcList": [
+                {
+                    "DisplayID": "4;4;0;0",
+                    "info": {
+                        "deuteranopia": 0,
+                        "protanopia": 10,
+                        "state": 0,
+                        "tritanopia": 0
+                    }
+                }
+            ],
+            "exe_is_launcher": "FALSE",
+            "exe_path": "C:\\Program Files (x86)\\Windows Media Player\\wmplayer.exe",
+            "eyefinity_enabled": "FALSE",
+            "framegen_enabled": 0,
+            "freeSyncForceSet": "FALSE",
+            "guid": "{7e4520f7-dbc2-45b5-a670-137ac17e3c8f}",
+            "has_framegen_profile": "FALSE",
+            "has_upscaling_profile": "FALSE",
+            "hidden": "FALSE",
+            "image_info": "C:\\Program Files (x86)\\Windows Media Player\\wmplayer.exe",
+            "install_location": "",
+            "installer_id": "",
+            "is_ai_app": "FALSE",
+            "is_aiinference_support": "FALSE",
+            "is_appforlink": "TRUE",
+            "is_favourite": "FALSE",
+            "last_played_mins": 1,
+            "lastlaunchtime": "Sun Jul 12 23:45:41 2026",
+            "lastperformancereporttime": "",
+            "lnk_path": "",
+            "manual": "FALSE",
+            "msstore_id": "",
+            "origin_id": -1,
+            "overdrive": [
+            ],
+            "overdrive_enabled": "FALSE",
+            "percentile95_msec": -1,
+            "profileCustomized": "FALSE",
+            "profileEnabled": "TRUE",
+            "rayTracing": "FALSE",
+            "rendering_process": "",
+            "revertuserprofiletype": -1,
+            "smartshift_enabled": "FALSE",
+            "special_flags": "link|manual_fmf",
+            "steam_id": -1,
+            "title": "Windows Media Player",
+            "total_played_mins": 1,
+            "uninstall_location": -1,
+            "uninstalled": "FALSE",
+            "uplay_id": -1,
+            "upscaling_enabled": "FALSE",
+            "upscaling_sharpness": 75,
+            "upscaling_target_resolution": "",
+            "upscaling_use_borderless": "FALSE",
+            "useEyefinity": "FALSE",
+            "userprofiletype": -1,
+            "week_played_mins": 0
+        },
+        {
+            "FRAMEGEN_Algo": 0,
+            "FRAMEGEN_FallbackMode": 0,
+            "FRAMEGEN_PerfMode": 0,
+            "FRAMEGEN_SearchMode": 0,
+            "FSRUpgradeAvailable": "FALSE",
+            "FfxDisableToastShowed": "FALSE",
+            "MlfiAvailable": "FALSE",
+            "OTAFfxDllIndex": -1,
+            "amdId": 865,
+            "appDisplayScalingSet": "FALSE",
+            "appHistogramCapture": "FALSE",
+            "arguments": "",
+            "athena_support": "FALSE",
+            "auto_enable_ps_state": "USEGLOBAL",
+            "averageFPS": -1,
+            "color_enabled": "FALSE",
+            "colors": [
+            ],
+            "commandline": "",
+            "cvdcList": [
+                {
+                    "DisplayID": "4;4;0;0",
+                    "info": {
+                        "deuteranopia": 0,
+                        "protanopia": 10,
+                        "state": 0,
+                        "tritanopia": 0
+                    }
+                }
+            ],
+            "exe_is_launcher": "FALSE",
+            "exe_path": "",
+            "eyefinity_enabled": "FALSE",
+            "framegen_enabled": 0,
+            "freeSyncForceSet": "FALSE",
+            "guid": "{a7d0a69a-7e10-49b1-83ee-2cc7fa3df2fe}",
+            "has_framegen_profile": "FALSE",
+            "has_upscaling_profile": "FALSE",
+            "hidden": "FALSE",
+            "image_info": "",
+            "install_location": "",
+            "installer_id": "Steam App 252950",
+            "is_ai_app": "FALSE",
+            "is_aiinference_support": "FALSE",
+            "is_appforlink": "FALSE",
+            "is_favourite": "FALSE",
+            "last_played_mins": 0,
+            "lastlaunchtime": "",
+            "lastperformancereporttime": "",
+            "lnk_path": "",
+            "manual": "FALSE",
+            "msstore_id": "",
+            "origin_id": -1,
+            "overdrive": [
+            ],
+            "overdrive_enabled": "FALSE",
+            "percentile95_msec": -1,
+            "profileCustomized": "FALSE",
+            "profileEnabled": "TRUE",
+            "rayTracing": "FALSE",
+            "rendering_process": "",
+            "revertuserprofiletype": -1,
+            "smartshift_enabled": "FALSE",
+            "special_flags": "na|manual_fmf",
+            "steam_id": 252950,
+            "title": "Rocket League",
+            "total_played_mins": 0,
+            "uninstall_location": 1,
+            "uninstalled": "TRUE",
+            "uplay_id": -1,
+            "upscaling_enabled": "FALSE",
+            "upscaling_sharpness": 75,
+            "upscaling_target_resolution": "",
+            "upscaling_use_borderless": "FALSE",
+            "useEyefinity": "FALSE",
+            "userprofiletype": -1,
+            "week_played_mins": 0
+        },
+        {
+            "FRAMEGEN_Algo": 0,
+            "FRAMEGEN_FallbackMode": 0,
+            "FRAMEGEN_PerfMode": 0,
+            "FRAMEGEN_SearchMode": 0,
+            "FSRUpgradeAvailable": "FALSE",
+            "FfxDisableToastShowed": "FALSE",
+            "MlfiAvailable": "FALSE",
+            "OTAFfxDllIndex": -1,
+            "amdId": -1,
+            "appDisplayScalingSet": "FALSE",
+            "appHistogramCapture": "FALSE",
+            "arguments": "",
+            "athena_support": "FALSE",
+            "auto_enable_ps_state": "USEGLOBAL",
+            "averageFPS": -1,
+            "color_enabled": "FALSE",
+            "colors": [
+            ],
+            "commandline": "",
+            "cvdcList": [
+                {
+                    "DisplayID": "4;4;0;0",
+                    "info": {
+                        "deuteranopia": 0,
+                        "protanopia": 10,
+                        "state": 0,
+                        "tritanopia": 0
+                    }
+                }
+            ],
+            "exe_is_launcher": "FALSE",
+            "exe_path": "E:\\SteamLibrary\\steamapps\\common\\Lossless Scaling\\LosslessScaling.exe",
+            "eyefinity_enabled": "FALSE",
+            "framegen_enabled": 0,
+            "freeSyncForceSet": "FALSE",
+            "guid": "{e923dc89-9c5a-4bb9-9983-ab064b4633c1}",
+            "has_framegen_profile": "FALSE",
+            "has_upscaling_profile": "FALSE",
+            "hidden": "TRUE",
+            "image_info": "",
+            "install_location": "",
+            "installer_id": "",
+            "is_ai_app": "FALSE",
+            "is_aiinference_support": "FALSE",
+            "is_appforlink": "FALSE",
+            "is_favourite": "FALSE",
+            "last_played_mins": 1,
+            "lastlaunchtime": "Sun Mar 29 18:03:03 2026",
+            "lastperformancereporttime": "",
+            "lnk_path": "",
+            "manual": "FALSE",
+            "msstore_id": "",
+            "origin_id": -1,
+            "overdrive": [
+            ],
+            "overdrive_enabled": "FALSE",
+            "percentile95_msec": -1,
+            "profileCustomized": "TRUE",
+            "profileEnabled": "TRUE",
+            "rayTracing": "FALSE",
+            "rendering_process": "",
+            "revertuserprofiletype": -1,
+            "smartshift_enabled": "FALSE",
+            "special_flags": "",
+            "steam_id": 993090,
+            "title": "Lossless Scaling",
+            "total_played_mins": 1,
+            "uninstall_location": -1,
+            "uninstalled": "FALSE",
+            "uplay_id": -1,
+            "upscaling_enabled": "FALSE",
+            "upscaling_sharpness": -1,
+            "upscaling_target_resolution": "",
+            "upscaling_use_borderless": "FALSE",
+            "useEyefinity": "FALSE",
+            "userprofiletype": 5,
+            "week_played_mins": 0
+        },
+        {
+            "FRAMEGEN_Algo": 0,
+            "FRAMEGEN_FallbackMode": 0,
+            "FRAMEGEN_PerfMode": 0,
+            "FRAMEGEN_SearchMode": 0,
+            "FSRUpgradeAvailable": "FALSE",
+            "FfxDisableToastShowed": "FALSE",
+            "MlfiAvailable": "FALSE",
+            "OTAFfxDllIndex": -1,
+            "amdId": 1471,
+            "appDisplayScalingSet": "FALSE",
+            "appHistogramCapture": "FALSE",
+            "arguments": "",
+            "athena_support": "FALSE",
+            "auto_enable_ps_state": "USEGLOBAL",
+            "averageFPS": -1,
+            "color_enabled": "FALSE",
+            "colors": [
+            ],
+            "commandline": "",
+            "cvdcList": [
+                {
+                    "DisplayID": "4;4;0;0",
+                    "info": {
+                        "deuteranopia": 0,
+                        "protanopia": 10,
+                        "state": 0,
+                        "tritanopia": 0
+                    }
+                }
+            ],
+            "exe_is_launcher": "FALSE",
+            "exe_path": "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe",
+            "eyefinity_enabled": "FALSE",
+            "framegen_enabled": 0,
+            "freeSyncForceSet": "FALSE",
+            "guid": "{6b7ee3ee-02c4-4d53-8b2c-4897c37b9608}",
+            "has_framegen_profile": "FALSE",
+            "has_upscaling_profile": "FALSE",
+            "hidden": "FALSE",
+            "image_info": "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe",
+            "install_location": "",
+            "installer_id": "",
+            "is_ai_app": "FALSE",
+            "is_aiinference_support": "FALSE",
+            "is_appforlink": "TRUE",
+            "is_favourite": "FALSE",
+            "last_played_mins": 5,
+            "lastlaunchtime": "Tue Sep 22 15:34:46 2026",
+            "lastperformancereporttime": "",
+            "lnk_path": "",
+            "manual": "FALSE",
+            "msstore_id": "",
+            "origin_id": -1,
+            "overdrive": [
+            ],
+            "overdrive_enabled": "FALSE",
+            "percentile95_msec": -1,
+            "profileCustomized": "FALSE",
+            "profileEnabled": "TRUE",
+            "rayTracing": "FALSE",
+            "rendering_process": "",
+            "revertuserprofiletype": -1,
+            "smartshift_enabled": "FALSE",
+            "special_flags": "link|manual_fmf",
+            "steam_id": -1,
+            "title": "VLC",
+            "total_played_mins": 93,
+            "uninstall_location": -1,
+            "uninstalled": "FALSE",
+            "uplay_id": -1,
+            "upscaling_enabled": "FALSE",
+            "upscaling_sharpness": 75,
+            "upscaling_target_resolution": "",
+            "upscaling_use_borderless": "FALSE",
+            "useEyefinity": "FALSE",
+            "userprofiletype": -1,
+            "week_played_mins": 0
+        },
+        {
+            "FRAMEGEN_Algo": 0,
+            "FRAMEGEN_FallbackMode": 0,
+            "FRAMEGEN_PerfMode": 0,
+            "FRAMEGEN_SearchMode": 0,
+            "FSRUpgradeAvailable": "FALSE",
+            "FfxDisableToastShowed": "FALSE",
+            "MlfiAvailable": "FALSE",
+            "OTAFfxDllIndex": -1,
+            "amdId": -1,
+            "appDisplayScalingSet": "FALSE",
+            "appHistogramCapture": "FALSE",
+            "arguments": "",
+            "athena_support": "FALSE",
+            "auto_enable_ps_state": "USEGLOBAL",
+            "averageFPS": -1,
+            "color_enabled": "FALSE",
+            "colors": [
+            ],
+            "commandline": "",
+            "cvdcList": [
+                {
+                    "DisplayID": "4;4;0;0",
+                    "info": {
+                        "deuteranopia": 0,
+                        "protanopia": 10,
+                        "state": 0,
+                        "tritanopia": 0
+                    }
+                }
+            ],
+            "exe_is_launcher": "FALSE",
+            "exe_path": "E:\\SteamLibrary\\steamapps\\common\\Gloria Victis\\gv.exe",
+            "eyefinity_enabled": "FALSE",
+            "framegen_enabled": 0,
+            "freeSyncForceSet": "FALSE",
+            "guid": "{95af2361-943d-4966-adfb-c9d1f363e61f}",
+            "has_framegen_profile": "FALSE",
+            "has_upscaling_profile": "FALSE",
+            "hidden": "FALSE",
+            "image_info": "",
+            "install_location": "",
+            "installer_id": "",
+            "is_ai_app": "FALSE",
+            "is_aiinference_support": "FALSE",
+            "is_appforlink": "FALSE",
+            "is_favourite": "FALSE",
+            "last_played_mins": 4,
+            "lastlaunchtime": "Sat May 2 21:59:30 2026",
+            "lastperformancereporttime": "",
+            "lnk_path": "",
+            "manual": "FALSE",
+            "msstore_id": "",
+            "origin_id": -1,
+            "overdrive": [
+            ],
+            "overdrive_enabled": "FALSE",
+            "percentile95_msec": -1,
+            "profileCustomized": "TRUE",
+            "profileEnabled": "TRUE",
+            "rayTracing": "FALSE",
+            "rendering_process": "",
+            "revertuserprofiletype": -1,
+            "smartshift_enabled": "FALSE",
+            "special_flags": "",
+            "steam_id": -1,
+            "title": "gv",
+            "total_played_mins": 3494,
+            "uninstall_location": -1,
+            "uninstalled": "FALSE",
+            "uplay_id": -1,
+            "upscaling_enabled": "FALSE",
+            "upscaling_sharpness": -1,
+            "upscaling_target_resolution": "",
+            "upscaling_use_borderless": "FALSE",
+            "useEyefinity": "FALSE",
+            "userprofiletype": 5,
+            "week_played_mins": 0
+        },
+        {
+            "FRAMEGEN_Algo": 0,
+            "FRAMEGEN_FallbackMode": 0,
+            "FRAMEGEN_PerfMode": 0,
+            "FRAMEGEN_SearchMode": 0,
+            "FSRUpgradeAvailable": "FALSE",
+            "FfxDisableToastShowed": "FALSE",
+            "MlfiAvailable": "FALSE",
+            "OTAFfxDllIndex": -1,
+            "amdId": -1,
+            "appDisplayScalingSet": "FALSE",
+            "appHistogramCapture": "FALSE",
+            "arguments": "",
+            "athena_support": "FALSE",
+            "auto_enable_ps_state": "USEGLOBAL",
+            "averageFPS": -1,
+            "color_enabled": "FALSE",
+            "colors": [
+            ],
+            "commandline": "",
+            "cvdcList": [
+                {
+                    "DisplayID": "4;4;0;0",
+                    "info": {
+                        "deuteranopia": 0,
+                        "protanopia": 10,
+                        "state": 0,
+                        "tritanopia": 0
+                    }
+                }
+            ],
+            "exe_is_launcher": "FALSE",
+            "exe_path": "",
+            "eyefinity_enabled": "FALSE",
+            "framegen_enabled": 0,
+            "freeSyncForceSet": "FALSE",
+            "guid": "{a67f19fb-2e41-4f45-bcd4-bc638315660f}",
+            "has_framegen_profile": "FALSE",
+            "has_upscaling_profile": "FALSE",
+            "hidden": "FALSE",
+            "image_info": "",
+            "install_location": "",
+            "installer_id": "Steam App 4376720",
+            "is_ai_app": "FALSE",
+            "is_aiinference_support": "FALSE",
+            "is_appforlink": "FALSE",
+            "is_favourite": "FALSE",
+            "last_played_mins": 0,
+            "lastlaunchtime": "",
+            "lastperformancereporttime": "",
+            "lnk_path": "",
+            "manual": "FALSE",
+            "msstore_id": "",
+            "origin_id": -1,
+            "overdrive": [
+            ],
+            "overdrive_enabled": "FALSE",
+            "percentile95_msec": -1,
+            "profileCustomized": "FALSE",
+            "profileEnabled": "TRUE",
+            "rayTracing": "FALSE",
+            "rendering_process": "",
+            "revertuserprofiletype": -1,
+            "smartshift_enabled": "FALSE",
+            "special_flags": "",
+            "steam_id": 4376720,
+            "title": "steamappid:4376720",
+            "total_played_mins": 0,
+            "uninstall_location": -1,
+            "uninstalled": "TRUE",
+            "uplay_id": -1,
+            "upscaling_enabled": "FALSE",
+            "upscaling_sharpness": -1,
+            "upscaling_target_resolution": "",
+            "upscaling_use_borderless": "FALSE",
+            "useEyefinity": "FALSE",
+            "userprofiletype": -1,
+            "week_played_mins": 0
+        },
+        {
+            "FRAMEGEN_Algo": 0,
+            "FRAMEGEN_FallbackMode": 0,
+            "FRAMEGEN_PerfMode": 1,
+            "FRAMEGEN_SearchMode": 2,
+            "FSRUpgradeAvailable": "TRUE",
+            "FfxDisableToastShowed": "FALSE",
+            "MlfiAvailable": "FALSE",
+            "OTAFfxDllIndex": -1,
+            "amdId": 205,
+            "appDisplayScalingSet": "FALSE",
+            "appHistogramCapture": "FALSE",
+            "arguments": "",
+            "athena_support": "FALSE",
+            "auto_enable_ps_state": "USEGLOBAL",
+            "averageFPS": -1,
+            "color_enabled": "TRUE",
+            "colors": [
+                {
+                    "ID": "5,4,5,4",
+                    "ProductId": "",
+                    "settings": [
+                        {
+                            "featureId": 1,
+                            "featureValue": {
+                                "current": 150,
+                                "manual": "FALSE",
+                                "support": "TRUE"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "commandline": "",
+            "cvdcList": [
+                {
+                    "DisplayID": "4;4;0;0",
+                    "info": {
+                        "deuteranopia": 0,
+                        "protanopia": 10,
+                        "state": 0,
+                        "tritanopia": 0
+                    }
+                }
+            ],
+            "exe_is_launcher": "FALSE",
+            "exe_path": "",
+            "eyefinity_enabled": "FALSE",
+            "framegen_enabled": 0,
+            "freeSyncForceSet": "FALSE",
+            "guid": "{74ad7b70-1f72-4642-8d82-d6ad11390318}",
+            "has_framegen_profile": "TRUE",
+            "has_upscaling_profile": "TRUE",
+            "hidden": "FALSE",
+            "image_info": "C:\\Program Files (x86)\\Steam\\steam\\games\\6ebc0b466b17d0a99dc98dbcdc86f1108cbe619c.ico",
+            "install_location": "E:\\SteamLibrary\\steamapps\\common\\Gloria Victis",
+            "installer_id": "Steam App 327070",
+            "is_ai_app": "FALSE",
+            "is_aiinference_support": "FALSE",
+            "is_appforlink": "FALSE",
+            "is_favourite": "FALSE",
+            "last_played_mins": 9,
+            "lastlaunchtime": "Mon Sep 21 17:30:43 2026",
+            "lastperformancereporttime": "",
+            "lnk_path": "",
+            "manual": "FALSE",
+            "msstore_id": "",
+            "origin_id": -1,
+            "overdrive": [
+            ],
+            "overdrive_enabled": "FALSE",
+            "percentile95_msec": -1,
+            "profileCustomized": "TRUE",
+            "profileEnabled": "TRUE",
+            "rayTracing": "FALSE",
+            "rendering_process": "",
+            "revertuserprofiletype": -1,
+            "smartshift_enabled": "FALSE",
+            "special_flags": "launcher_exe:\\..\\..\\..\\Launcher\\Bethesda.net_Launcher.exe",
+            "steam_id": 327070,
+            "title": "Gloria Victis",
+            "total_played_mins": 52708,
+            "uninstall_location": 0,
+            "uninstalled": "FALSE",
+            "uplay_id": -1,
+            "upscaling_enabled": "FALSE",
+            "upscaling_sharpness": -1,
+            "upscaling_target_resolution": "",
+            "upscaling_use_borderless": "FALSE",
+            "useEyefinity": "FALSE",
+            "userprofiletype": 4,
+            "week_played_mins": 0
+        },
+        {
+            "FRAMEGEN_Algo": 0,
+            "FRAMEGEN_FallbackMode": 0,
+            "FRAMEGEN_PerfMode": 1,
+            "FRAMEGEN_SearchMode": 2,
+            "FSRUpgradeAvailable": "TRUE",
+            "FfxDisableToastShowed": "FALSE",
+            "MlfiAvailable": "FALSE",
+            "OTAFfxDllIndex": -1,
+            "amdId": -1,
+            "appDisplayScalingSet": "FALSE",
+            "appHistogramCapture": "FALSE",
+            "arguments": "",
+            "athena_support": "FALSE",
+            "auto_enable_ps_state": "USEGLOBAL",
+            "averageFPS": -1,
+            "color_enabled": "TRUE",
+            "colors": [
+                {
+                    "ID": "5,4,5,4",
+                    "ProductId": "",
+                    "settings": [
+                        {
+                            "featureId": 1,
+                            "featureValue": {
+                                "current": 125,
+                                "manual": "FALSE",
+                                "support": "TRUE"
+                            }
+                        },
+                        {
+                            "featureId": 4,
+                            "featureValue": {
+                                "current": 6500,
+                                "manual": "TRUE",
+                                "support": "TRUE"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "commandline": "",
+            "cvdcList": [
+                {
+                    "DisplayID": "4;4;0;0",
+                    "info": {
+                        "deuteranopia": 0,
+                        "protanopia": 10,
+                        "state": 0,
+                        "tritanopia": 0
+                    }
+                }
+            ],
+            "exe_is_launcher": "FALSE",
+            "exe_path": "",
+            "eyefinity_enabled": "FALSE",
+            "framegen_enabled": 0,
+            "freeSyncForceSet": "FALSE",
+            "guid": "{dd4f030b-b4c4-4c4f-9ae9-8911de62f03b}",
+            "has_framegen_profile": "TRUE",
+            "has_upscaling_profile": "TRUE",
+            "hidden": "FALSE",
+            "image_info": "C:\\Program Files (x86)\\Steam\\steam\\games\\6829090332535af8637c4b6e1dddf3ee8ec3d134.ico",
+            "install_location": "E:\\SteamLibrary\\steamapps\\common\\WARDOGS Playtest",
+            "installer_id": "Steam App 4809930",
+            "is_ai_app": "FALSE",
+            "is_aiinference_support": "FALSE",
+            "is_appforlink": "FALSE",
+            "is_favourite": "FALSE",
+            "last_played_mins": 231,
+            "lastlaunchtime": "Sun Sep 6 11:21:32 2026",
+            "lastperformancereporttime": "",
+            "lnk_path": "",
+            "manual": "FALSE",
+            "msstore_id": "",
+            "origin_id": -1,
+            "overdrive": [
+            ],
+            "overdrive_enabled": "FALSE",
+            "percentile95_msec": -1,
+            "profileCustomized": "TRUE",
+            "profileEnabled": "TRUE",
+            "rayTracing": "FALSE",
+            "rendering_process": "",
+            "revertuserprofiletype": -1,
+            "smartshift_enabled": "FALSE",
+            "special_flags": "",
+            "steam_id": 4809930,
+            "title": "WARDOGS Playtest",
+            "total_played_mins": 3136,
+            "uninstall_location": 0,
+            "uninstalled": "TRUE",
+            "uplay_id": -1,
+            "upscaling_enabled": "FALSE",
+            "upscaling_sharpness": -1,
+            "upscaling_target_resolution": "",
+            "upscaling_use_borderless": "FALSE",
+            "useEyefinity": "FALSE",
+            "userprofiletype": 4,
+            "week_played_mins": 0
+        },
+        {
+            "FRAMEGEN_Algo": 0,
+            "FRAMEGEN_FallbackMode": 0,
+            "FRAMEGEN_PerfMode": 0,
+            "FRAMEGEN_SearchMode": 0,
+            "FSRUpgradeAvailable": "FALSE",
+            "FfxDisableToastShowed": "FALSE",
+            "MlfiAvailable": "FALSE",
+            "OTAFfxDllIndex": -1,
+            "amdId": -1,
+            "appDisplayScalingSet": "FALSE",
+            "appHistogramCapture": "FALSE",
+            "arguments": "",
+            "athena_support": "FALSE",
+            "auto_enable_ps_state": "USEGLOBAL",
+            "averageFPS": -1,
+            "color_enabled": "FALSE",
+            "colors": [
+            ],
+            "commandline": "",
+            "cvdcList": [
+                {
+                    "DisplayID": "4;4;0;0",
+                    "info": {
+                        "deuteranopia": 0,
+                        "protanopia": 10,
+                        "state": 0,
+                        "tritanopia": 0
+                    }
+                }
+            ],
+            "exe_is_launcher": "FALSE",
+            "exe_path": "",
+            "eyefinity_enabled": "FALSE",
+            "framegen_enabled": 0,
+            "freeSyncForceSet": "FALSE",
+            "guid": "{2c696bb2-6ef4-4672-bd49-544e049ff6db}",
+            "has_framegen_profile": "FALSE",
+            "has_upscaling_profile": "FALSE",
+            "hidden": "FALSE",
+            "image_info": "",
+            "install_location": "",
+            "installer_id": "Steam App 2709730",
+            "is_ai_app": "FALSE",
+            "is_aiinference_support": "FALSE",
+            "is_appforlink": "FALSE",
+            "is_favourite": "FALSE",
+            "last_played_mins": 0,
+            "lastlaunchtime": "",
+            "lastperformancereporttime": "",
+            "lnk_path": "",
+            "manual": "FALSE",
+            "msstore_id": "",
+            "origin_id": -1,
+            "overdrive": [
+            ],
+            "overdrive_enabled": "FALSE",
+            "percentile95_msec": -1,
+            "profileCustomized": "FALSE",
+            "profileEnabled": "TRUE",
+            "rayTracing": "FALSE",
+            "rendering_process": "",
+            "revertuserprofiletype": -1,
+            "smartshift_enabled": "FALSE",
+            "special_flags": "",
+            "steam_id": 2709730,
+            "title": "steamappid:2709730",
+            "total_played_mins": 0,
+            "uninstall_location": -1,
+            "uninstalled": "TRUE",
+            "uplay_id": -1,
+            "upscaling_enabled": "FALSE",
+            "upscaling_sharpness": -1,
+            "upscaling_target_resolution": "",
+            "upscaling_use_borderless": "FALSE",
+            "useEyefinity": "FALSE",
+            "userprofiletype": -1,
+            "week_played_mins": 0
+        },
+        {
+            "FRAMEGEN_Algo": 0,
+            "FRAMEGEN_FallbackMode": 0,
+            "FRAMEGEN_PerfMode": 0,
+            "FRAMEGEN_SearchMode": 0,
+            "FSRUpgradeAvailable": "TRUE",
+            "FfxDisableToastShowed": "FALSE",
+            "MlfiAvailable": "FALSE",
+            "OTAFfxDllIndex": -1,
+            "amdId": -1,
+            "appDisplayScalingSet": "FALSE",
+            "appHistogramCapture": "FALSE",
+            "arguments": "",
+            "athena_support": "FALSE",
+            "auto_enable_ps_state": "USEGLOBAL",
+            "averageFPS": 19.90600058236422,
+            "color_enabled": "TRUE",
+            "colors": [
+                {
+                    "ID": "0,4,0,4",
+                    "ProductId": "",
+                    "settings": [
+                        {
+                            "featureId": 1,
+                            "featureValue": {
+                                "current": 150,
+                                "manual": "FALSE",
+                                "support": "TRUE"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "ID": "5,4,5,4",
+                    "ProductId": "",
+                    "settings": [
+                        {
+                            "featureId": 1,
+                            "featureValue": {
+                                "current": 150,
+                                "manual": "FALSE",
+                                "support": "TRUE"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "commandline": "",
+            "cvdcList": [
+                {
+                    "DisplayID": "4;4;0;0",
+                    "info": {
+                        "deuteranopia": 0,
+                        "protanopia": 10,
+                        "state": 0,
+                        "tritanopia": 0
+                    }
+                }
+            ],
+            "exe_is_launcher": "FALSE",
+            "exe_path": "E:\\SteamLibrary\\steamapps\\common\\Wardogs\\Wardogs\\Binaries\\Win64\\WardogsClient-Win64-Shipping.exe",
+            "eyefinity_enabled": "FALSE",
+            "framegen_enabled": 0,
+            "freeSyncForceSet": "FALSE",
+            "guid": "{56d4f394-4f73-4533-bf81-82cdd59e4779}",
+            "has_framegen_profile": "TRUE",
+            "has_upscaling_profile": "TRUE",
+            "hidden": "FALSE",
+            "image_info": "C:\\Program Files (x86)\\Steam\\steam\\games\\6829090332535af8637c4b6e1dddf3ee8ec3d134.ico",
+            "install_location": "",
+            "installer_id": "Steam App 1867240",
+            "is_ai_app": "FALSE",
+            "is_aiinference_support": "FALSE",
+            "is_appforlink": "FALSE",
+            "is_favourite": "FALSE",
+            "last_played_mins": 96,
+            "lastlaunchtime": "Tue Sep 29 00:53:48 2026",
+            "lastperformancereporttime": "Sat Sep 26 17:48:11 2026",
+            "lnk_path": "",
+            "manual": "FALSE",
+            "msstore_id": "",
+            "origin_id": -1,
+            "overdrive": [
+                {
+                    "bdf": 768,
+                    "isAutoDefault": 0,
+                    "isOD8AdvancedControl": 0,
+                    "isODNComponentControl": 0,
+                    "settings": [
+                    ],
+                    "settings8": [
+                        {
+                            "featureId": 32,
+                            "featureValue": {
+                                "ActualValueAvailable_": "TRUE",
+                                "ActualValue_": 192,
+                                "Enabled_": "FALSE",
+                                "Visible_": "TRUE",
+                                "settings": [
+                                    {
+                                        "featureId": 0,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 0
+                                        }
+                                    },
+                                    {
+                                        "featureId": 1,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 0
+                                        }
+                                    },
+                                    {
+                                        "featureId": 2,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 0
+                                        }
+                                    },
+                                    {
+                                        "featureId": 3,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 0
+                                        }
+                                    },
+                                    {
+                                        "featureId": 4,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 0
+                                        }
+                                    },
+                                    {
+                                        "featureId": 5,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 0
+                                        }
+                                    },
+                                    {
+                                        "featureId": 6,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 0
+                                        }
+                                    },
+                                    {
+                                        "featureId": 7,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 0
+                                        }
+                                    },
+                                    {
+                                        "featureId": 8,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 0
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "featureId": 26,
+                            "featureValue": {
+                                "ActualValueAvailable_": "TRUE",
+                                "ActualValue_": 192,
+                                "Enabled_": "FALSE",
+                                "Visible_": "TRUE",
+                                "settings": [
+                                    {
+                                        "featureId": 0,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 0
+                                        }
+                                    },
+                                    {
+                                        "featureId": 1,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 0
+                                        }
+                                    },
+                                    {
+                                        "featureId": 2,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 0
+                                        }
+                                    },
+                                    {
+                                        "featureId": 3,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 0
+                                        }
+                                    },
+                                    {
+                                        "featureId": 4,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 0
+                                        }
+                                    },
+                                    {
+                                        "featureId": 5,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 0
+                                        }
+                                    },
+                                    {
+                                        "featureId": 6,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 0
+                                        }
+                                    },
+                                    {
+                                        "featureId": 7,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 0
+                                        }
+                                    },
+                                    {
+                                        "featureId": 8,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 0
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "featureId": 31,
+                            "featureValue": {
+                                "ActualValueAvailable_": "TRUE",
+                                "ActualValue_": 457,
+                                "Enabled_": "FALSE",
+                                "Visible_": "TRUE",
+                                "settings": [
+                                    {
+                                        "featureId": 0,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 0
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "featureId": 23,
+                            "featureValue": {
+                                "ActualValueAvailable_": "TRUE",
+                                "ActualValue_": 30,
+                                "Enabled_": "FALSE",
+                                "Visible_": "TRUE",
+                                "settings": [
+                                    {
+                                        "featureId": 0,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 0
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "featureId": 12,
+                            "featureValue": {
+                                "ActualValueAvailable_": "TRUE",
+                                "ActualValue_": 457,
+                                "Enabled_": "FALSE",
+                                "Visible_": "TRUE",
+                                "settings": [
+                                    {
+                                        "featureId": 0,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 0
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "featureId": 5,
+                            "featureValue": {
+                                "ActualValueAvailable_": "TRUE",
+                                "ActualValue_": 2503,
+                                "Enabled_": "FALSE",
+                                "Visible_": "TRUE",
+                                "settings": [
+                                    {
+                                        "featureId": 0,
+                                        "featureValue": {
+                                            "Visible_": "TRUE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 2518
+                                        }
+                                    },
+                                    {
+                                        "featureId": 1,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 0
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "featureId": 29,
+                            "featureValue": {
+                                "ActualValueAvailable_": "TRUE",
+                                "ActualValue_": 27,
+                                "Enabled_": "FALSE",
+                                "Visible_": "TRUE",
+                                "settings": [
+                                    {
+                                        "featureId": 0,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 0
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "featureId": 25,
+                            "featureValue": {
+                                "ActualValueAvailable_": "FALSE",
+                                "ActualValue_": -1,
+                                "Enabled_": "FALSE",
+                                "Visible_": "FALSE",
+                                "settings": [
+                                ]
+                            }
+                        },
+                        {
+                            "featureId": 8,
+                            "featureValue": {
+                                "ActualValueAvailable_": "TRUE",
+                                "ActualValue_": 28,
+                                "Enabled_": "FALSE",
+                                "Visible_": "TRUE",
+                                "settings": [
+                                    {
+                                        "featureId": 0,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": -1
+                                        }
+                                    },
+                                    {
+                                        "featureId": 1,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": -1
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "featureId": 3,
+                            "featureValue": {
+                                "ActualValueAvailable_": "FALSE",
+                                "ActualValue_": -1,
+                                "Enabled_": "FALSE",
+                                "Visible_": "TRUE",
+                                "settings": [
+                                    {
+                                        "featureId": 0,
+                                        "featureValue": {
+                                            "Visible_": "TRUE",
+                                            "enabled_": "TRUE",
+                                            "expectedValue_": 0
+                                        }
+                                    },
+                                    {
+                                        "featureId": 1,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "TRUE",
+                                            "expectedValue_": 0
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "featureId": 17,
+                            "featureValue": {
+                                "ActualValueAvailable_": "FALSE",
+                                "ActualValue_": -1,
+                                "Enabled_": "FALSE",
+                                "Visible_": "TRUE",
+                                "settings": [
+                                    {
+                                        "featureId": 0,
+                                        "featureValue": {
+                                            "Visible_": "TRUE",
+                                            "enabled_": "TRUE",
+                                            "expectedValue_": 0
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "featureId": 18,
+                            "featureValue": {
+                                "ActualValueAvailable_": "FALSE",
+                                "ActualValue_": -1,
+                                "Enabled_": "FALSE",
+                                "Visible_": "TRUE",
+                                "settings": [
+                                    {
+                                        "featureId": 0,
+                                        "featureValue": {
+                                            "Visible_": "TRUE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 1
+                                        }
+                                    },
+                                    {
+                                        "featureId": 1,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 0
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "featureId": 19,
+                            "featureValue": {
+                                "ActualValueAvailable_": "FALSE",
+                                "ActualValue_": -1,
+                                "Enabled_": "FALSE",
+                                "Visible_": "TRUE",
+                                "settings": [
+                                    {
+                                        "featureId": 0,
+                                        "featureValue": {
+                                            "Visible_": "TRUE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 0
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "featureId": 34,
+                            "featureValue": {
+                                "ActualValueAvailable_": "FALSE",
+                                "ActualValue_": -1,
+                                "Enabled_": "FALSE",
+                                "Visible_": "TRUE",
+                                "settings": [
+                                    {
+                                        "featureId": 0,
+                                        "featureValue": {
+                                            "Visible_": "TRUE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 0
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "featureId": 20,
+                            "featureValue": {
+                                "ActualValueAvailable_": "FALSE",
+                                "ActualValue_": -1,
+                                "Enabled_": "FALSE",
+                                "Visible_": "TRUE",
+                                "settings": [
+                                    {
+                                        "featureId": 0,
+                                        "featureValue": {
+                                            "Visible_": "TRUE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 0
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "featureId": 21,
+                            "featureValue": {
+                                "ActualValueAvailable_": "FALSE",
+                                "ActualValue_": -1,
+                                "Enabled_": "FALSE",
+                                "Visible_": "TRUE",
+                                "settings": [
+                                    {
+                                        "featureId": 0,
+                                        "featureValue": {
+                                            "Visible_": "TRUE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 0
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "featureId": 27,
+                            "featureValue": {
+                                "ActualValueAvailable_": "FALSE",
+                                "ActualValue_": -1,
+                                "Enabled_": "FALSE",
+                                "Visible_": "TRUE",
+                                "settings": [
+                                    {
+                                        "featureId": 0,
+                                        "featureValue": {
+                                            "Visible_": "TRUE",
+                                            "enabled_": "TRUE",
+                                            "expectedValue_": 3
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "featureId": 22,
+                            "featureValue": {
+                                "ActualValueAvailable_": "TRUE",
+                                "ActualValue_": 1396,
+                                "Enabled_": "FALSE",
+                                "Visible_": "TRUE",
+                                "settings": [
+                                    {
+                                        "featureId": 0,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 30
+                                        }
+                                    },
+                                    {
+                                        "featureId": 1,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 20
+                                        }
+                                    },
+                                    {
+                                        "featureId": 2,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 50
+                                        }
+                                    },
+                                    {
+                                        "featureId": 3,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 36
+                                        }
+                                    },
+                                    {
+                                        "featureId": 4,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 58
+                                        }
+                                    },
+                                    {
+                                        "featureId": 5,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 52
+                                        }
+                                    },
+                                    {
+                                        "featureId": 6,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 67
+                                        }
+                                    },
+                                    {
+                                        "featureId": 7,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 68
+                                        }
+                                    },
+                                    {
+                                        "featureId": 8,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 75
+                                        }
+                                    },
+                                    {
+                                        "featureId": 9,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 100
+                                        }
+                                    },
+                                    {
+                                        "featureId": 10,
+                                        "featureValue": {
+                                            "Visible_": "FALSE",
+                                            "enabled_": "FALSE",
+                                            "expectedValue_": 0
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "settingsN": [
+                    ]
+                }
+            ],
+            "overdrive_enabled": "TRUE",
+            "percentile95_msec": 161,
+            "profileCustomized": "TRUE",
+            "profileEnabled": "TRUE",
+            "rayTracing": "FALSE",
+            "rendering_process": "",
+            "revertuserprofiletype": -1,
+            "smartshift_enabled": "FALSE",
+            "special_flags": "",
+            "steam_id": 1867240,
+            "title": "WARDOGS",
+            "total_played_mins": 6511,
+            "uninstall_location": 0,
+            "uninstalled": "FALSE",
+            "uplay_id": -1,
+            "upscaling_enabled": "FALSE",
+            "upscaling_sharpness": 50,
+            "upscaling_target_resolution": "",
+            "upscaling_use_borderless": "FALSE",
+            "useEyefinity": "FALSE",
+            "userprofiletype": 4,
+            "week_played_mins": 246
+        },
+        {
+            "FRAMEGEN_Algo": 0,
+            "FRAMEGEN_FallbackMode": 0,
+            "FRAMEGEN_PerfMode": 0,
+            "FRAMEGEN_SearchMode": 0,
+            "FSRUpgradeAvailable": "FALSE",
+            "FfxDisableToastShowed": "FALSE",
+            "MlfiAvailable": "FALSE",
+            "OTAFfxDllIndex": -1,
+            "amdId": -1,
+            "appDisplayScalingSet": "FALSE",
+            "appHistogramCapture": "FALSE",
+            "arguments": "",
+            "athena_support": "FALSE",
+            "auto_enable_ps_state": "USEGLOBAL",
+            "averageFPS": -1,
+            "color_enabled": "FALSE",
+            "colors": [
+            ],
+            "commandline": "",
+            "cvdcList": [
+                {
+                    "DisplayID": "4;4;0;0",
+                    "info": {
+                        "deuteranopia": 0,
+                        "protanopia": 10,
+                        "state": 0,
+                        "tritanopia": 0
+                    }
+                }
+            ],
+            "exe_is_launcher": "FALSE",
+            "exe_path": "C:\\Program Files (x86)\\Stardock\\Notifications\\Stardock.Notifications.exe",
+            "eyefinity_enabled": "FALSE",
+            "framegen_enabled": 0,
+            "freeSyncForceSet": "FALSE",
+            "guid": "{05263950-423d-42cc-b73c-a7ac368973e5}",
+            "has_framegen_profile": "FALSE",
+            "has_upscaling_profile": "FALSE",
+            "hidden": "FALSE",
+            "image_info": "C:\\Program Files (x86)\\Steam\\steam\\games\\e58470f4e54b706c05a16513db7a0d309c69c2e5.ico",
+            "install_location": "",
+            "installer_id": "Steam App 3751880",
+            "is_ai_app": "FALSE",
+            "is_aiinference_support": "FALSE",
+            "is_appforlink": "FALSE",
+            "is_favourite": "FALSE",
+            "last_played_mins": 0,
+            "lastlaunchtime": "Sun Sep 27 01:35:23 2026",
+            "lastperformancereporttime": "",
+            "lnk_path": "",
+            "manual": "FALSE",
+            "msstore_id": "",
+            "origin_id": -1,
+            "overdrive": [
+            ],
+            "overdrive_enabled": "FALSE",
+            "percentile95_msec": -1,
+            "profileCustomized": "TRUE",
+            "profileEnabled": "TRUE",
+            "rayTracing": "FALSE",
+            "rendering_process": "",
+            "revertuserprofiletype": -1,
+            "smartshift_enabled": "FALSE",
+            "special_flags": "",
+            "steam_id": 3751880,
+            "title": "Multiplicity 4 Pro",
+            "total_played_mins": 0,
+            "uninstall_location": 0,
+            "uninstalled": "FALSE",
+            "uplay_id": -1,
+            "upscaling_enabled": "FALSE",
+            "upscaling_sharpness": -1,
+            "upscaling_target_resolution": "",
+            "upscaling_use_borderless": "FALSE",
+            "useEyefinity": "FALSE",
+            "userprofiletype": -1,
+            "week_played_mins": 0
+        }
+    ],
+    "lst_dtc_tsmp_high": 31281064,
+    "lst_dtc_tsmp_low": 635587056,
+    "lst_rsch_data_release": 2
+}
