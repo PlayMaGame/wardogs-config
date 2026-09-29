@@ -70,3 +70,58 @@ APP NAG / TOOLS (safe to keep running)
 --------------------------------------
   Multiplicity (KVM - in use), FanControl, OBS (replay buffer), AutoHotkey (WD QoL)
   Windhawk (classic context menu mod - explorer only, harmless)
+
+
+===================================================================
+FROM-SCRATCH RECREATION CHECKLIST (fresh Windows install)
+===================================================================
+This is the FULL recipe. The files above only cover the config part;
+the steps below cover everything the files CANNOT save.
+
+[1] INSTALL WINDOWS
+    - Windows 11 25H2 (UEFI). Do NOT use ReviOS - stock is safer.
+
+[2] BIOS (before/after install)
+    - Enable EXPO/DDR5 @ 6000
+    - Disable Integrated Graphics (iGPU) - you use the 9060 XT
+    - Disable PCIe ASPM
+    - (optional) Global C-States off, PBO + Curve Optimizer -15
+
+[3] DRIVERS
+    - AMD Chipset driver (latest, from AMD)
+    - AMD Adrenalin driver: version 26.10.x / 32.0.31041.1004
+      (this kit's registry files assume a compatible driver)
+
+[4] RESTORE CONFIG FILES (in order)
+    - powercfg /import powerplan_balanced.pow
+      powercfg /setactive <GUID printed>
+    - reg import multimedia_systemprofile.reg   (Admin)
+    - reg import powerthrottling.reg            (Admin)
+    - reg import deviceguard.reg                (Admin)
+    - reg import amd_cn_hkcu.reg + amd_cn_hklm.reg  (Admin)  [NO TWITCH TOKENS]
+    - reg import amd_umd_dgpu.reg               (Admin)
+    - reg import mouse.reg, gamebar.reg, gameconfigstore.reg, appcompat_fullscreenopt.reg
+    - Restore GameUserSettings.ini into
+      %LOCALAPPDATA%\Wardogs\Saved\Config\WindowsClient\
+
+[5] ADRENALIN (Gaming > War Dogs profile)
+    - Radeon Anti-Lag : ON
+    - Boost / Chill / Enhanced Sync / Sharpening : OFF
+    - VSync control : Always Off
+    - FreeSync : AMD Optimized
+    - (The gmdb.blb in this kit is a bonus; if it doesn't load cleanly,
+      just set the 5 toggles above manually - that's the reliable path.)
+
+[6] WINDOWS SETTINGS
+    - HAGS : ON  (Settings > Display > Graphics)
+    - Power plan : Balanced
+    - Mouse : Enhance pointer precision OFF, 1000Hz polling
+    - Display scaling : 100%
+
+[7] STEAM + GAME
+    - Install Steam, install WARDOGS
+    - Steam > WARDOGS > Properties > Launch Options: -nogpucrashdebugging
+    - In-game: 2560x1440, Upscaling FSR3 (Quality), FrameRateLimit 144, VSync Off
+
+[8] VERIFY
+    - In a match: GPU 65-90% (not stuck low), CPU at max boost, 144 FPS locked
